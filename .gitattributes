@@ -1,0 +1,4 @@
+# Properly handle Plain English files.
+* text working-tree-encoding=Windows-1251 eol=crlf git-encoding=utf-8
+# Auto detect text files and perform LF normalization on everything else
+*.* text=auto
